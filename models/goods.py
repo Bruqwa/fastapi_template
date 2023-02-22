@@ -35,6 +35,3 @@ class GoodsListData(ListData):
 
 class GoodsListSuccessResponse(SuccessResponse):
     data: GoodsListData
-
-
-#ass
